@@ -3,6 +3,9 @@ html {
   height: 100%;
   width: 100%;
 }
+body {  
+  background-color:rgb(206,232,218) !important;
+}
 
 #blogcomments {
   text-align:center;
@@ -29,12 +32,4 @@ html {
 
 body{
   margin:auto;
-}
-
-body {
-  background-color:white;
-}
-
-.container {
-  background-color:rgb(206,232,218)!important;
 }
